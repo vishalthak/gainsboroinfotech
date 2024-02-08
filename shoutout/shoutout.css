@@ -1,0 +1,228 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    scroll-behavior: smooth;
+  }
+
+
+.shoutout-1{
+    margin-top: 60px;
+}
+
+.shoutout-inner-content h5 {
+    font-size: 35px;
+    padding-right: 13%;
+    letter-spacing: 2px;
+    font-weight: 100;
+}
+
+/* both box one and two */
+section.shoutout-2nd-page {
+    margin-top: 120px;
+}
+
+.shoutout-2-p-content {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.info-section h5 {
+    font-size: 40px;
+}
+
+/* input box */
+
+/* .info-section p {
+    padding: 10px 0 10px 0px;
+}
+.i-box {
+    border: solid 1px black;
+    outline: none;
+    background: none;
+    height: 48px;
+    padding: 10px 10px 10px 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 46%;
+}
+
+
+input, textarea {
+    width: 300px;
+    margin-bottom: 10px; 
+}
+#description {
+    width: calc(108% - 101px);
+    height: 140px;
+}
+
+.form-main-div {
+    position: relative;
+}
+
+.send-msg {
+    position: absolute;
+    border-radius: 7px;
+    left: 48%;
+   
+} */
+
+.form-content-container input {
+    width: 100%;
+    height: 45px;
+    padding: 15px;
+    border: 1px solid black;
+    background: transparent;
+    margin-top: 15px;
+}
+.form-content-container textarea {
+    width: 100%;
+    height: 150px;
+    padding: 15px;
+    border: 1px solid black;
+    background: transparent;
+    margin-top: 15px;
+}
+
+.form-content-container button {
+    float: right;
+    background: transparent;
+    border: 1px solid black;
+    padding: 12px 13px;
+    font-size: 16px;
+}
+.first-form {
+    display: flex;
+    gap: 15px;
+}
+.second-form {
+    display: flex;
+    gap: 15px;
+}
+.form-text-area {
+    width: 100%;
+    height: 150px;
+    padding: 15px;
+    border: 1px solid black;
+    background: transparent;
+    margin-top: 15px;
+}
+
+
+.form-bttn {
+    float: right;
+    background: transparent;
+    border: 1px solid black;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 16px 60px 16px 60px;
+    margin-top: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+/* box 2  */
+
+.shoutout-2-p-content {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.info-section {
+    background-color: #e6e6e6;
+    padding: 130px 30px 120px 83px;
+    flex: 60%;
+    margin-right: 15px;
+}
+.contact-container {
+    letter-spacing: 1px;
+    background: #e4dcd3;
+    flex: 30%;
+    margin: 0 40px 0 -30px;
+    padding: 60px 40px;
+}
+
+
+.contact-box {
+    
+    margin-bottom: 25px;
+}
+
+.contact-icon {
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding-right: 10px;
+}
+
+.contact-heading {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.contact-text {
+    font-size: 14px; }
+
+
+    /* abroad images section */
+
+   .abroad-img {
+    margin-top: 60px;
+   }
+
+    
+    .abroad-img-inner-content {
+        display: flex;
+        justify-content: space-around; /* Adjust spacing between images */
+        align-items: center;
+        text-align: center;
+       
+    }
+
+    .abroad-img-inner-content div {
+        text-align: center;
+        color: white;
+        width: 25%;
+        position: relative;
+    }
+
+    .abroad-img-inner-content div span {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+    }
+
+    .abroad-img-inner-content img {
+        width: 100%;
+        height: auto;
+
+       
+    }
+
+
+    /* map section */
+
+    .map-section {
+        margin-top: 80px;
+    }
+
+
+    

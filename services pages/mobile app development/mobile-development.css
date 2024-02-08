@@ -1,0 +1,138 @@
+.mobile-s5 {
+    background-image: url(/Images/Mobile_app_banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 80vh;
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+/* section three of mobile development */
+
+  .mobile-s3 {
+	margin-top: 50px;
+}
+
+  .mobile-s3-content {
+	width: 70%;
+}
+
+  .mobile-s3-content li{
+    padding-top: 15px;
+  }
+
+
+
+  /* section four of mobile development */
+
+  .mobile-s4 {
+    margin-top: 60px;;
+  }
+
+  .mobile-s4-content {
+	display: flex;
+	gap: 18px;
+}
+
+.mobile-s4-content span {
+	font-size: 80px;
+}
+.mobile-s4-content p {
+	padding-top: 15px;
+}
+
+/* section five mobile development */
+
+.mobile-s5-2 {
+	margin-top: 120px;
+}
+.s5-mobile-image img {
+    width: 600px;
+  height: 750px;
+}
+
+.mobile-s5-content {
+	display: flex;
+	gap: 25px;
+	align-items: center;
+}
+.mobile-s5-2-heading  {
+    font-size: 35px;
+}
+
+.mobile-s5-2-paragraph {
+    padding-top: 25px;
+}
+
+.s5-mobile-span1 {
+	display: block;
+    font-size: 30px;
+    padding: 20px 0px 20px;
+
+}
+
+
+/* ======================Section two 2014 start ============================== */
+
+.mobile-s6-all-box-container {
+	display: flex;
+	margin-top: 120px;
+	flex-direction: row-reverse;
+	gap: 53px;
+    align-items: center;
+}
+  
+  /* .mobile-s6-box-one {
+    margin: 60px 80px 60px 0;
+  } */
+  
+  .mobile-s6-highlight-text {
+    border-bottom: 2px solid #c3ec00;
+    font-weight: 600;
+  }
+
+ 
+  .mobile-s6-s2-p2 {
+	
+	letter-spacing: 1px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+  
+  /* .mobile-s6-s2-heading h4 {
+    font-size: 35px;
+    line-height: 70px;
+    padding-bottom: 10px;
+    letter-spacing: 2px;
+  } */
+
+  .mobile-s6-heading-1 {
+    font-size: 35px;
+  }
+  
+  
+  .mobile-s6-s2-shape {
+    background-color: #c3ec00;
+    padding: 14px 25px;
+    border-radius: 25px;
+    font-size: 13px;
+    color: #000;
+    text-decoration: none;
+    letter-spacing: 2px;
+  }
+  
+  .mobile-s6-box-two img {
+    width: 530px;
+    height: 730px;
+  }
+  
+  /* ======================Section three CORE SERVICES start ========================= */
+  
+  
+  
